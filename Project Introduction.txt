@@ -1,0 +1,6 @@
+                                     PROJECT INTRODUCTION
+
+
+
+
+This project deals with developing an anti-hacking app to prevent hacking of social media acccounts.It will help blocking other's interference in one's login accounts.
